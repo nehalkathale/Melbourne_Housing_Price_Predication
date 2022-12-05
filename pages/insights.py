@@ -1,4 +1,4 @@
-import melbourneHousing as main
+import app as main
 import streamlit as st
 import altair as alt
 import pandas as pd
