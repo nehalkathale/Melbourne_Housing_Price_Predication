@@ -4,6 +4,5 @@ altair
 tensorflow
 pandas
 numpy
-base64
 plotly
 pickle
