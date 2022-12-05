@@ -1,9 +1,8 @@
 import streamlit as st
 import pandas as pd
-import melbourneHousing as main
+import app as main
 import altair as alt
 import plotly.express as px
-import geojson
 
 data = main.loadData() 
 st.markdown("<h1 style='text-align: center; color: #47039f;'>Melbourse Housing Visualization</h1><br>", unsafe_allow_html=True)
